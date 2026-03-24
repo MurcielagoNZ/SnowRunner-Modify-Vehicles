@@ -1,2 +1,23 @@
-# SnowRunner-Modify-Vehicles
+# 《雪地奔驰》自动改车工具 SnowRunner Modify Vehicles Tool
 自动修改一些卡车的参数
+
+这个小工具会（大致）按照我[这里](https://www.bilibili.com/read/cv18435577/)写的去修改游戏内车辆的属性，使得部分车款更为有用，但也会破坏平衡性。
+
+## 修改列表：
+
+**TUZ 420 "Tatarin"**
+* 添加小型拖车挂点
+
+
+**Western Star 6900 TwinSteer**
+* 添加大型拖车挂点
+
+
+**Azov 43-191 "Sprinter"**
+* 添加小型拖车挂点
+* 增加内部配件仓燃油容量
+
+
+**Azov 5319**
+* 低半挂鞍座略微前移，使得整车承重更平均
+* 移除【挂车】和【起重机+货箱】组合冲突
